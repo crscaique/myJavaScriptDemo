@@ -7,7 +7,7 @@ It is with great enthusiasm that I deploy some simple, but complete daily life a
 
 **How to access the activities
 
-1 - Each folder represents one project, pull the repository to acquire the full content
+1 - Each folder represents one project, pull the repository to acquire the full content /n
 2 - The folders' title are straight forward - Ex: Calc - You should expect a Calculator running in the browser
 3 - To execute/open the page - Open the desired folder click on the index.html - this will open your default browser and run the program
 
